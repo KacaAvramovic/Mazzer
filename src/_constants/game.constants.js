@@ -1,0 +1,5 @@
+export const gameConstants = {
+    START_REQUEST: 'GAME_START_REQUEST',
+    START_SUCCESS: 'GAME_START_SUCCESS',
+    START_FAILURE: 'GAME_START_FAILURE'    
+};
